@@ -2,11 +2,11 @@ package hw;
 
 public class HelloWorld {
 
-  public String getMessage() {
-    return "hello world";
-  }
+    public String getMessage() {
+        return "hello world";
+    }
 
-  public int getYear() {
-    return 2023;
-  }
+    public int getYear() {
+        return 2024;
+    }
 }
